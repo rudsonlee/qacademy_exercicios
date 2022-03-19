@@ -1,11 +1,9 @@
 package easy;
 
-import javax.swing.JOptionPane;
 
 public class Exercicio02 {
-    public static void main(String[] args) {
-        String palavraDigitada;
-     palavraDigitada = JOptionPane.showInputDialog("Digite uma palavra!");   
-     System.out.println("O usuario digitou: "+palavraDigitada);
+    public String retornaPalavraDigitada (String palavraDigitada){
+    
+     return "O usuario digitou: "+palavraDigitada;
     }
 }//fim do exercicio
