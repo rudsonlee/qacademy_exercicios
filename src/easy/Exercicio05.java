@@ -3,7 +3,7 @@ package easy;
 import javax.swing.JOptionPane;
 
 public class Exercicio05 {
-    public static void main(String[] args) {
+    public void retornaNumeros() {
         int primeiroNumero, segundoNumero, terceiroNumero;
         String primeiroNumeroDigitadoMtn = JOptionPane.showInputDialog("Digite o primeiro numero");
         String segundoNumeroDigitadoMtn = JOptionPane.showInputDialog("Digite o segundo numero");

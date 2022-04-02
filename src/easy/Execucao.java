@@ -11,6 +11,10 @@ public class Execucao {
         Exercicio04 exercicio04 = new Exercicio04();
         exercicio04.retornaNumero();
 
+        Exercicio05 exercicio05 = new Exercicio05();
+        exercicio05.retornaNumeros();
+        
+
 
     }
 
