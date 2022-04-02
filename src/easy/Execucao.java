@@ -27,7 +27,10 @@ public class Execucao {
         //exercicio09.retornaNumeroDigitado();
 
         Exercicio10_1 exercicio10_1 = new Exercicio10_1();
-        exercicio10_1.retornaValorTotal();
+        // exercicio10_1.retornaValorTotal();
+
+        Exercicio11 exercicio11 = new Exercicio11();
+        exercicio11.retornaNumeroDigitado11();
 
 
 
