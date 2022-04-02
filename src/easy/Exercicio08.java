@@ -1,7 +1,7 @@
 package easy;
 
 public class Exercicio08 {
-public static void main(String[] args) {
+public static void retornaSalarios (){
     double salario, salarioLiquido = 0.0, impostoRenda = 0;
         String salarioStg = "1910";
         salario = Double.parseDouble(salarioStg);

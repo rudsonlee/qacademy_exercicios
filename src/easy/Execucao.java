@@ -18,7 +18,11 @@ public class Execucao {
         // exercicio06.retornanota();
 
         Exercicio07 exercicio07 = new Exercicio07();
-        exercicio07.retornaSalario();
+        // exercicio07.retornaSalario();
+
+        Exercicio08 exercicio08 = new Exercicio08();
+        exercicio08.retornaSalarios();
+        
 
 
 
