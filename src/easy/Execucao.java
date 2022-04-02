@@ -13,7 +13,10 @@ public class Execucao {
 
         Exercicio05 exercicio05 = new Exercicio05();
         exercicio05.retornaNumeros();
-        
+
+        Exercicio06 exercicio06 = new Exercicio06();
+        exercicio06.retornanota();
+
 
 
     }
