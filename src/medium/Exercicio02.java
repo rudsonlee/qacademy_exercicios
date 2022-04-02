@@ -3,7 +3,7 @@ package medium;
 import javax.swing.JOptionPane;
 
 public class Exercicio02 {
-    public static void main(String[] args) {
+    public void valorAtualizado () {
         double valorInvestimento, taxaJuros = 0.05, totalAtualizadoComJuros;
         int ano = 1, tempoInvestido = 10;
         String valorInvestidoStg = JOptionPane.showInputDialog("Digite um valor de investimento");

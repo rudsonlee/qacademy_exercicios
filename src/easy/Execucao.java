@@ -1,13 +1,11 @@
 package easy;
 
-import medium.Exercicio01;
-
 public class Execucao {
     public static void main(String[] args) {
         // Exercicio easy
 
         Exercicio02 exercicio02 = new Exercicio02();
-        exercicio02.retornaPalavraDigitada("teste");
+        System.out.println(exercicio02.retornaPalavraDigitada("teste"));
     
         Exercicio03 exercicio03 = new Exercicio03();
         // exercicio03.retornaValor();
@@ -38,11 +36,9 @@ public class Execucao {
 
 
 
-        // Exercicio medium
 
 
-        Exercicio01 exercicio01 = new Exercicio01();
-        exercicio01.imparPar();
+
 
 
 
