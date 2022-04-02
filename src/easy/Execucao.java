@@ -6,16 +6,19 @@ public class Execucao {
         exercicio02.retornaPalavraDigitada("teste");
     
         Exercicio03 exercicio03 = new Exercicio03();
-        exercicio03.retornaValor();
+        // exercicio03.retornaValor();
 
         Exercicio04 exercicio04 = new Exercicio04();
-        exercicio04.retornaNumero();
+        // exercicio04.retornaNumero();
 
         Exercicio05 exercicio05 = new Exercicio05();
-        exercicio05.retornaNumeros();
+        // exercicio05.retornaNumeros();
 
         Exercicio06 exercicio06 = new Exercicio06();
-        exercicio06.retornanota();
+        // exercicio06.retornanota();
+
+        Exercicio07 exercicio07 = new Exercicio07();
+        exercicio07.retornaSalario();
 
 
 

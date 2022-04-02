@@ -1,7 +1,7 @@
 package easy;
 
 public class Exercicio07 {
-    public static void main(String[] args) {
+    public void retornaSalario() {
 
         double salario, inss = 0.0; // declaração das variaveis
         String salarioStg = "6101.07"; // Leitura da digitação
