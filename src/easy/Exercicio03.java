@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Exercicio03 {
 
-    public static void main(String[] args) {
+    public  void retornaValor() {
         String primeiroValor;
         String segundoValor;
         primeiroValor = JOptionPane.showInputDialog("Digite um valor");
