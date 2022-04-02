@@ -1,7 +1,7 @@
 package easy;
 
 public class Exercicio10_1 {
-    public static void main(String[] args) {
+    public void retornaValorTotal (){
         double valorJuros, taxaJuros = 0.05, valorInvestimento, valorTotal;
         valorInvestimento = 1000.00;
         valorJuros = (10 * taxaJuros) * valorInvestimento;
