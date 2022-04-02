@@ -1,7 +1,7 @@
 package easy;
 
 public class Exercicio09 {
-    public static void main(String[] args) {
+    public void retornaNumeroDigitado () {
         int numeroDigitado, i = 1, resultado;
         String numeroDigitadoStg = "10";
         numeroDigitado = Integer.parseInt(numeroDigitadoStg);
